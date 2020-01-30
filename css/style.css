@@ -1,0 +1,7 @@
+#dialog{
+    border: 1px solid grey;
+    background-color: antiquewhite;
+    width: 270px;
+    position: absolute;
+    display: none;
+}
